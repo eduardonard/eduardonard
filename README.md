@@ -13,5 +13,4 @@
 
 ## Get in Touch
 
-- 📫 You can reach me via email at [eduardomnardone@gmail.com].
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/eduardo-mateo-nardone-b659b8222/) to explore professional opportunities and collaborations.
