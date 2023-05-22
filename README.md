@@ -9,7 +9,7 @@
 
 ## Projects and Contributions
 
-- 🚀 I actively contribute to open source projects on platforms like GitHub.
+- 🚀 I actively contribute to open source projects.
 
 ## Get in Touch
 
