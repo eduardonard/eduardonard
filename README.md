@@ -1,4 +1,4 @@
-# Hi there!
+
 ## About Me
 
 - 🌱 I'm currently studying AI and constantly learning new concepts and techniques. CS50's way.
