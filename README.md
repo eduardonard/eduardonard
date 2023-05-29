@@ -10,6 +10,7 @@
 
 - 🚀 I actively contribute to open source projects.
 
+
 ## Get in Touch
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/eduardo-mateo-nardone-b659b8222/) to explore professional opportunities and collaborations.
