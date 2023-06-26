@@ -1,7 +1,7 @@
 ## About Me
 
 - 🌱 I'm currently studying AI and constantly learning new concepts and techniques. CS50's way.
-- 💻 I specialize in Python and JavaScript programming languages.
+- 💻 I specialize in Python and JavaScript.
 - 🔭 I'm always on the lookout for exciting open source projects to contribute to.
 - 📚 I love exploring different fields within AI, including machine learning, natural language processing, and computer vision.
 - 🎓 I hold a degree in Mechanical Engineering and continuously enhance my skills through self-study and online courses.
