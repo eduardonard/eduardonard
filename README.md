@@ -6,6 +6,7 @@
 - 📚 I love exploring different fields within AI, including machine learning, natural language processing, and computer vision.
 - 🎓 I hold a degree in Mechanical Engineering and continuously enhance my skills through self-study and online courses.
 
+
 ## Projects and Contributions
 
 - 🚀 I actively contribute to open source projects.
